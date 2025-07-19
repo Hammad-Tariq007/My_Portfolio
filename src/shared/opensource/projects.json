@@ -1,46 +1,10 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "masterPortfolio",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "url": "https://github.com/Hammad-Tariq007/My_Portfolio",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
       "isFork": false,
       "languages": [
@@ -63,13 +27,87 @@
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "P001",
+      "name": "FitnessFreaks",
+      "createdAt": "2025-05-01T00:00:00Z",
+      "url": "https://fitness-freaks.site/",
+      "description": "💪 AI-powered fitness web app offering personalized plans, smart nutrition guidance, real-time dashboards, and social interaction, built using React, Supabase, and Stripe.",
       "isFork": false,
       "languages": [
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "logos-tailwindcss"
+        },
+        {
+          "name": "Supabase",
+          "iconifyClass": "simple-icons:supabase"
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Mystique",
+      "createdAt": "2024-11-01T00:00:00Z",
+      "url": "https://github.com/Hammad-Tariq007/Mystique",
+      "description": "🛍️ Modern MERN-based e-commerce site featuring user authentication, dynamic product pages, cart management, and secure checkout flow.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
+        },
+        {
+          "name": "Express.js",
+          "iconifyClass": "simple-icons:express"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "name": "Glamify",
+      "createdAt": "2024-12-15T00:00:00Z",
+      "url": "https://github.com/Hammad-Tariq007/Glamify",
+      "description": "💄 Sleek full-stack beauty and cosmetics store built with the MERN stack, featuring admin panel, payment gateway, and responsive UI.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "name": "BagBliss",
+      "createdAt": "2024-08-01T00:00:00Z",
+      "url": "https://github.com/Hammad-Tariq007/BagBliss",
+      "description": "👜 Elegant online store for women’s bags, developed with PHP, HTML, CSS, and JavaScript. Includes shopping cart and category-wise navigation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -79,44 +117,34 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "name": "Reboot",
+      "createdAt": "2024-10-10T00:00:00Z",
+      "url": "https://github.com/Hammad-Tariq007/Reboot",
+      "description": "👟 Shoe e-commerce platform built with core PHP, HTML/CSS, and JavaScript. Features include product listing, user registration, and smooth checkout flow.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }

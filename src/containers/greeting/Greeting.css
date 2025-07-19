@@ -55,6 +55,28 @@
   height: auto;
 }
 
+.resume-btn-home {
+  margin-top: 0.4rem;
+  display: flex;
+  justify-content: flex-start;
+}
+.resume-btn-home .button {
+  font-size: 1.1rem;
+  padding: 0.85em 2.2em;
+  border-radius: 2em;
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  border: 1.5px solid #00cfff;
+  box-shadow: 0 2px 24px #00cfff22;
+  backdrop-filter: blur(8px);
+  transition: background 0.2s, box-shadow 0.2s, color 0.2s;
+}
+.resume-btn-home .button:hover {
+  background: #00cfff;
+  color: #0f0f0f;
+  box-shadow: 0 4px 32px #00cfff88;
+}
+
 /* Media Query */
 @media (max-width: 1380px) {
   .greeting-text {
